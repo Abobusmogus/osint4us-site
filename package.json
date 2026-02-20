@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Official warning site regarding OSINT4US",
   "private": true,
-  "homepage": "https://Abobusmogus.github.io/osint4us",
+  "homepage": "https://Abobusmogus.github.io/osint4us-site",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
